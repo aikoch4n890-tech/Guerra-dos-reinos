@@ -1,0 +1,15 @@
+{
+  "name": "guerra-dos-reinos",
+  "version": "1.0.0",
+  "description": "Jogo de live (YouTube e TikTok): Guerra dos Reinos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "tiktok-live-connector": "^2.0.3"
+  }
+}
